@@ -7,9 +7,9 @@
 
 <p>
 
-<a href="https://t.me/Noobever"> Noob Creator </a>     
-    <a href="https://t.me/TheeDeCode"> Support Channel </a> •
-    <a href="https://t.me/OfficialdeCode"> Support Chat </a> 
+<a href="https://t.me/alex_ayush_keshri"> Noob Creator </a>     
+    <a href="https://t.me/alex_ayush_keshri"> Support Channel </a> •
+    <a href="https://t.me/alex_ayush_keshri"> Support Chat </a> 
  </p>
 
 
@@ -21,5 +21,5 @@
 ### Code Creator
 
 ```
-BlazeOp
+Ayush_Keshri
 ```
